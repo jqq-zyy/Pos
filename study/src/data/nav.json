@@ -1,0 +1,34 @@
+[
+  {
+	"id": "index",
+	"name": "首页",
+	"path": "/",
+	"icon": "icon-shouyin",
+	"highLighList": ["/", "/index"],
+	"type": 0
+  },
+  {
+	"id": "store",
+	"name": "店铺",
+	"path": "/store",
+	"icon": "icon-dianpu",
+	"highLighList": ["/store"],
+	"type": 0
+  },
+  {
+	"id": "member",
+	"name": "会员",
+	"path": "/member",
+	"icon": "icon-huiyuan",
+	"highLighList": ["/member"],
+	"type": 0
+  },
+  {
+	"id": "statistics",
+	"name": "统计",
+	"path": "/statistics",
+	"icon": "icon-tongji",
+	"highLighList": ["/statistics"],
+	"type": 0
+  }
+]
